@@ -1,6 +1,6 @@
 {
   "name": "react-multiple-files-upload-ronaroa",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "a react library to upload multiple files",
   "main": "./src/index.ts",
   "files": [
@@ -8,11 +8,12 @@
     "src/**/*"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VOID-TELECOM/react-multiple-files-upload-ronaroa.git"
+    "url": "https://github.com/VOID-TELECOM/react-multiple-files-upload-ronaroa.git"
   },
   "keywords": [
     "react",
@@ -38,6 +39,7 @@
     "firebase": "8.9.1",
     "react": "^17.0.2",
     "react-icons": "^4.3.1",
-    "styled-components": "^5.3.3"
+    "styled-components": "^5.3.3",
+    "semantic-release": "^18.0.1"
   }
 }
