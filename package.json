@@ -1,0 +1,42 @@
+{
+  "name": "react-multiple-files-upload-ronaroa",
+  "version": "1.0.0",
+  "description": "a react library to upload multiple files",
+  "main": "./src/index.ts",
+  "files": [
+    "./src/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VOID-TELECOM/react-multiple-files-upload-ronaroa.git"
+  },
+  "keywords": [
+    "react",
+    "upload",
+    "multiple",
+    "files",
+    "dropzone",
+    "images",
+    "img",
+    "imagesupload",
+    "fileupload"
+  ],
+  "author": "edsonadelinoluis paichato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VOID-TELECOM/react-multiple-files-upload-ronaroa/issues"
+  },
+  "homepage": "https://github.com/VOID-TELECOM/react-multiple-files-upload-ronaroa#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/react": "^17.0.37",
+    "@types/styled-components": "^5.1.18",
+    "firebase": "8.9.1",
+    "react": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.3"
+  }
+}
