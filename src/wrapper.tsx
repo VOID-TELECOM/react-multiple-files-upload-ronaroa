@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import {AiFillCamera} from 'react-icons/ai'
 import {MdDeleteForever} from 'react-icons/md'
 import { storage } from './firebase';
+import "./styles.scss";
 
 export interface UploadableFile {
     file: File;
